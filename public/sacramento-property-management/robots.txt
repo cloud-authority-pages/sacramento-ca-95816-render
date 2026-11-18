@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sacramento-ca-95816.onrender.com/sitemap.xml
+Sitemap: https://sacramento-ca-95816.onrender.com/sacramento-property-management/sitemap.xml
